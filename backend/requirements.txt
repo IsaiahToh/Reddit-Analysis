@@ -1,0 +1,5 @@
+praw
+flask
+python-dotenv
+flask-cors
+pandas

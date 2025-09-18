@@ -1,12 +1,14 @@
-from flask import Flask, request, jsonify, send_file
+from flask import Blueprint, request, send_file
 from app.services.praw import scrape_subreddit
 
-app = Flask(__name__)
+praw_bp = Blueprint('praw_bp', __name__)
 
-@app.route('/scrape', methods=['POST'])
+@praw_bp.route('/scrape', methods=['POST'])
 def scrape():
     data = request.get_json()
-    subreddit = data.get('subreddit', 'passive_income')
+    subreddit = data.get('subreddit')
+    if not subreddit:
+        return {"error": "Please provide a subreddit."}, 400
     limit = int(data.get('limit', 1000))
     csv_path = scrape_subreddit(subreddit, limit)
     return send_file(csv_path, as_attachment=True)

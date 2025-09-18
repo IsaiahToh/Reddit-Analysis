@@ -1,10 +1,10 @@
 from flask import Flask
+from flask_cors import CORS
+from app.routes.praw import praw_bp
 
 app = Flask(__name__)
-
-@app.route('/')
-def home():
-    return "Hello, World!"
+CORS(app)
+app.register_blueprint(praw_bp)
 
 if __name__ == '__main__':
     app.run(debug=True)
