@@ -1,4 +1,6 @@
 from flask import Flask, request, jsonify, send_file
+from app.services.praw import scrape_subreddit
+
 app = Flask(__name__)
 
 @app.route('/scrape', methods=['POST'])
