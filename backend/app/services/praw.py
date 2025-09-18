@@ -48,7 +48,7 @@ def scrape_subreddit(subreddit_name, limit=1000):
         for f in futures:
             all_results.extend(f.result())
     df = pd.DataFrame(all_results)
-    df["all_comments"] = df["top_comments"].apply(lambda x: " ".join(x))
+    # df["all_comments"] = df["top_comments"].apply(lambda x: " ".join(x))
     csv_path = f"{subreddit_name}_posts_with_comments.csv"
     df.to_csv(csv_path, index=False)
     return csv_path
