@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
+import './App.css';
 
 function App() {
   const [subreddit, setSubreddit] = useState('');
-  const [limit, setLimit] = useState(1000);
+  const [limit, setLimit] = useState(500);
   const [loading, setLoading] = useState(false);
 
   const handleSubmit = async (e) => {
@@ -30,8 +31,8 @@ function App() {
   };
 
   return (
-    <div>
-      <h2>Reddit Scraper</h2>
+    <div className='App'>
+      <h1 className='gradient-header'>Reddit Scraper</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
@@ -47,7 +48,7 @@ function App() {
           onChange={e => setLimit(e.target.value)}
           min={1}
         />
-        <button type="submit" disabled={loading}>
+        <button type="submit" className="scrape-btn" disabled={loading}>
           {loading ? 'Scraping...' : 'Scrape'}
         </button>
       </form>
