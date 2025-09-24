@@ -1,22 +1,33 @@
 import praw
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
+import os
+from dotenv import load_dotenv
 
-# Initialize Reddit API
+# Load environment variables
+load_dotenv()
+
+# Initialize Reddit API with environment variables
 reddit = praw.Reddit(
-    client_id="IoCFWQa2kmHpGX3XzxXghQ",
-    client_secret="kQd6_QatR4aBcc9KSfNoS9081YEg9Q",
-    password="arielcheyanne12",
-    user_agent="my script by u/okcmputr",
-    username="okcmputr",
+    client_id=os.getenv("REDDIT_CLIENT_ID"),
+    client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
+    password=os.getenv("REDDIT_PASSWORD"),
+    user_agent=os.getenv("REDDIT_USER_AGENT"),
+    username=os.getenv("REDDIT_USERNAME"),
 )
 
 def fetch_posts(subreddit_name, limit=1000):
-    subreddit = reddit.subreddit(subreddit_name)
-    posts = []
-    for submission in subreddit.hot(limit=limit):
-        posts.append(submission)
-    return posts
+    try:
+        reddit.user.me()
+        
+        subreddit = reddit.subreddit(subreddit_name)
+        posts = []
+        for submission in subreddit.hot(limit=limit):
+            posts.append(submission)
+        return posts
+    except Exception as e:
+        print(f"Error fetching posts: {str(e)}")
+        raise Exception(f"Failed to connect to Reddit API: {str(e)}")
 
 def chunkify(lst, n):
     """Split list `lst` into `n` roughly equal parts."""
