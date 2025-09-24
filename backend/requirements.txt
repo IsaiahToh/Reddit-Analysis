@@ -4,6 +4,6 @@ praw
 pandas
 python-dotenv
 numpy
-tensorflow==2.11.0
+tensorflow
 scikit-learn
 gensim

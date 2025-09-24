@@ -1,0 +1,602 @@
+[
+  {
+    "id": "post_1",
+    "title": "Best way to save money fast",
+    "body": "This is just a scam.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_2",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "Hard to say without more information.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_3",
+    "title": "Can you really make money with surveys?",
+    "body": "This changed my life!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_4",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "I think it depends on your situation.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_5",
+    "title": "Do you think crypto is still worth it?",
+    "body": "This is an interesting topic.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_6",
+    "title": "Blogging vs YouTube for income",
+    "body": "Not worth the effort at all.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_7",
+    "title": "Do you think crypto is still worth it?",
+    "body": "There are many factors to consider.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_8",
+    "title": "What are your favorite side hustles?",
+    "body": "Hard to say without more information.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_9",
+    "title": "Can you really make money with surveys?",
+    "body": "Freelancing burned me out.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_10",
+    "title": "Is freelancing a good long-term option?",
+    "body": "Upwork has been great for me.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_11",
+    "title": "Is passive income really possible in 2025?",
+    "body": "This changed my life!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_12",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "It depends on how much effort you put in.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_13",
+    "title": "Is freelancing a good long-term option?",
+    "body": "I love this method, it's been working wonders.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_14",
+    "title": "What are your favorite side hustles?",
+    "body": "It depends on how much effort you put in.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_15",
+    "title": "How did you first make money online?",
+    "body": "This changed my life!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_16",
+    "title": "Blogging vs YouTube for income",
+    "body": "It's neither good nor bad, just an option.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_17",
+    "title": "Is passive income really possible in 2025?",
+    "body": "I lost money trying this method.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_18",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "There are many factors to consider.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_19",
+    "title": "Blogging vs YouTube for income",
+    "body": "Surveys wasted my time.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_20",
+    "title": "Can you really make money with surveys?",
+    "body": "Blogging didn't earn me anything.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_21",
+    "title": "How did you first make money online?",
+    "body": "This strategy boosted my savings a lot.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_22",
+    "title": "Is passive income really possible in 2025?",
+    "body": "It's neither good nor bad, just an option.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_23",
+    "title": "Do you think crypto is still worth it?",
+    "body": "I think it depends on your situation.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_24",
+    "title": "Is freelancing a good long-term option?",
+    "body": "It depends on how much effort you put in.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_25",
+    "title": "Is freelancing a good long-term option?",
+    "body": "This is an interesting topic.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_26",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "I'm really satisfied with this side hustle.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_27",
+    "title": "Is freelancing a good long-term option?",
+    "body": "It can work, but it's not guaranteed.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_28",
+    "title": "Do you think crypto is still worth it?",
+    "body": "Passive income feels like a lie.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_29",
+    "title": "What are your favorite side hustles?",
+    "body": "It depends on how much effort you put in.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_30",
+    "title": "Blogging vs YouTube for income",
+    "body": "Passive income feels like a lie.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_31",
+    "title": "How did you first make money online?",
+    "body": "Blogging didn't earn me anything.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_32",
+    "title": "Can you really make money with surveys?",
+    "body": "This is just a scam.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_33",
+    "title": "Is freelancing a good long-term option?",
+    "body": "This is an interesting topic.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_34",
+    "title": "What are your favorite side hustles?",
+    "body": "Dropshipping was a complete failure for me.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_35",
+    "title": "How did you first make money online?",
+    "body": "It can work, but it's not guaranteed.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_36",
+    "title": "Do you think crypto is still worth it?",
+    "body": "Passive income is totally possible!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_37",
+    "title": "Is freelancing a good long-term option?",
+    "body": "It depends on how much effort you put in.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_38",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "Passive income is totally possible!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_39",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "This strategy boosted my savings a lot.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_40",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "Upwork has been great for me.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_41",
+    "title": "Blogging vs YouTube for income",
+    "body": "This changed my life!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_42",
+    "title": "Can you really make money with surveys?",
+    "body": "I'm really satisfied with this side hustle.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_43",
+    "title": "Can you really make money with surveys?",
+    "body": "Hard to say without more information.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_44",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "I regret investing in crypto.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_45",
+    "title": "Can you really make money with surveys?",
+    "body": "I regret investing in crypto.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_46",
+    "title": "What are your favorite side hustles?",
+    "body": "Sometimes it works, sometimes it doesn't.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_47",
+    "title": "Best way to save money fast",
+    "body": "Passive income is totally possible!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_48",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "Surveys wasted my time.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_49",
+    "title": "What are your favorite side hustles?",
+    "body": "I lost money trying this method.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_50",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "This is an interesting topic.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_51",
+    "title": "What are your favorite side hustles?",
+    "body": "This is just a scam.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_52",
+    "title": "How did you first make money online?",
+    "body": "Freelancing burned me out.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_53",
+    "title": "Is freelancing a good long-term option?",
+    "body": "Freelancing is giving me the freedom I wanted.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_54",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "Sometimes it works, sometimes it doesn't.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_55",
+    "title": "What are your favorite side hustles?",
+    "body": "It depends on how much effort you put in.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_56",
+    "title": "Best way to save money fast",
+    "body": "Passive income feels like a lie.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_57",
+    "title": "Is passive income really possible in 2025?",
+    "body": "I'm really satisfied with this side hustle.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_58",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "Sometimes it works, sometimes it doesn't.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_59",
+    "title": "Is passive income really possible in 2025?",
+    "body": "This changed my life!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_60",
+    "title": "Best way to save money fast",
+    "body": "I've seen mixed results about this.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_61",
+    "title": "Best way to save money fast",
+    "body": "There are many factors to consider.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_62",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "YouTube has been such a rewarding experience.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_63",
+    "title": "Blogging vs YouTube for income",
+    "body": "I lost money trying this method.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_64",
+    "title": "Do you think crypto is still worth it?",
+    "body": "Freelancing burned me out.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_65",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "I love this method, it's been working wonders.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_66",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "I feel scammed by this so-called hustle.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_67",
+    "title": "Can you really make money with surveys?",
+    "body": "Affiliate marketing helped me earn a stable income.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_68",
+    "title": "How did you first make money online?",
+    "body": "I regret investing in crypto.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_69",
+    "title": "Can you really make money with surveys?",
+    "body": "I feel scammed by this so-called hustle.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_70",
+    "title": "Do you think crypto is still worth it?",
+    "body": "Blogging didn't earn me anything.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_71",
+    "title": "Is passive income really possible in 2025?",
+    "body": "There are many factors to consider.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_72",
+    "title": "What are your favorite side hustles?",
+    "body": "There are many factors to consider.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_73",
+    "title": "Can you really make money with surveys?",
+    "body": "I think it depends on your situation.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_74",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "Sometimes it works, sometimes it doesn't.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_75",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "Affiliate marketing helped me earn a stable income.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_76",
+    "title": "Do you think crypto is still worth it?",
+    "body": "I regret investing in crypto.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_77",
+    "title": "What are your favorite side hustles?",
+    "body": "I love this method, it's been working wonders.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_78",
+    "title": "Is passive income really possible in 2025?",
+    "body": "I love this method, it's been working wonders.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_79",
+    "title": "What are your favorite side hustles?",
+    "body": "I lost money trying this method.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_80",
+    "title": "Do you think crypto is still worth it?",
+    "body": "Blogging gave me amazing results.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_81",
+    "title": "Blogging vs YouTube for income",
+    "body": "Blogging didn't earn me anything.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_82",
+    "title": "Blogging vs YouTube for income",
+    "body": "This changed my life!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_83",
+    "title": "Is freelancing a good long-term option?",
+    "body": "I regret investing in crypto.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_84",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "Blogging didn't earn me anything.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_85",
+    "title": "How did you first make money online?",
+    "body": "YouTube has been such a rewarding experience.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_86",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "Blogging didn't earn me anything.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_87",
+    "title": "Do you think crypto is still worth it?",
+    "body": "This strategy boosted my savings a lot.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_88",
+    "title": "Blogging vs YouTube for income",
+    "body": "Passive income is totally possible!",
+    "sentiment": 1
+  },
+  {
+    "id": "post_89",
+    "title": "Is passive income really possible in 2025?",
+    "body": "Sometimes it works, sometimes it doesn't.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_90",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "Freelancing burned me out.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_91",
+    "title": "Do you think crypto is still worth it?",
+    "body": "I feel scammed by this so-called hustle.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_92",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "Surveys wasted my time.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_93",
+    "title": "How did you first make money online?",
+    "body": "Not worth the effort at all.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_94",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "Passive income feels like a lie.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_95",
+    "title": "How did you first make money online?",
+    "body": "I lost money trying this method.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_96",
+    "title": "Can you really make money with surveys?",
+    "body": "It's neither good nor bad, just an option.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_97",
+    "title": "Anyone tried dropshipping recently?",
+    "body": "It depends on how much effort you put in.",
+    "sentiment": 0
+  },
+  {
+    "id": "post_98",
+    "title": "Is freelancing a good long-term option?",
+    "body": "Upwork has been great for me.",
+    "sentiment": 1
+  },
+  {
+    "id": "post_99",
+    "title": "Do you think crypto is still worth it?",
+    "body": "I feel scammed by this so-called hustle.",
+    "sentiment": -1
+  },
+  {
+    "id": "post_100",
+    "title": "How much can you earn from affiliate marketing?",
+    "body": "Passive income feels like a lie.",
+    "sentiment": -1
+  }
+]
