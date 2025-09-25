@@ -7,3 +7,5 @@ numpy
 tensorflow
 scikit-learn
 gensim
+bertopic[all]
+keybert

@@ -21,10 +21,8 @@ def predict_sentiment(text, max_len=120):
     seq = tokenizer.texts_to_sequences([cleaned])
     pad = pad_sequences(seq, maxlen=max_len, padding='post')
     pred = model.predict(pad).argmax(axis=1)[0]
-    # Convert back to -1, 0, 1
     return pred - 1
 
-# Below is for testing, run python app/services/predict.py from backend directory
 if __name__ == "__main__":
     example = input("Enter text to analyze sentiment: ")
     result = predict_sentiment(example)
